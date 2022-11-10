@@ -1,5 +1,6 @@
 # lili-pipeline
-![image](https://user-images.githubusercontent.com/37136239/201034469-2840554c-eb7f-4e7c-84cc-d02b597d636d.png)
+![image](https://user-images.githubusercontent.com/37136239/201034678-ba520d13-e334-4f63-9891-4903d4d07327.png)
+
 
 
 ## Project setup
